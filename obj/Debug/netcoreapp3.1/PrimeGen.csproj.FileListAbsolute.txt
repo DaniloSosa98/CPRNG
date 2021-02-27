@@ -1,0 +1,13 @@
+C:\Users\Danilo Sosa\Documents\C# Files\PrimeGen\PrimeGen\bin\Debug\netcoreapp3.1\PrimeGen.exe
+C:\Users\Danilo Sosa\Documents\C# Files\PrimeGen\PrimeGen\bin\Debug\netcoreapp3.1\PrimeGen.deps.json
+C:\Users\Danilo Sosa\Documents\C# Files\PrimeGen\PrimeGen\bin\Debug\netcoreapp3.1\PrimeGen.runtimeconfig.json
+C:\Users\Danilo Sosa\Documents\C# Files\PrimeGen\PrimeGen\bin\Debug\netcoreapp3.1\PrimeGen.runtimeconfig.dev.json
+C:\Users\Danilo Sosa\Documents\C# Files\PrimeGen\PrimeGen\bin\Debug\netcoreapp3.1\PrimeGen.dll
+C:\Users\Danilo Sosa\Documents\C# Files\PrimeGen\PrimeGen\bin\Debug\netcoreapp3.1\PrimeGen.pdb
+C:\Users\Danilo Sosa\Documents\C# Files\PrimeGen\PrimeGen\obj\Debug\netcoreapp3.1\PrimeGen.csprojAssemblyReference.cache
+C:\Users\Danilo Sosa\Documents\C# Files\PrimeGen\PrimeGen\obj\Debug\netcoreapp3.1\PrimeGen.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Sosa\Documents\C# Files\PrimeGen\PrimeGen\obj\Debug\netcoreapp3.1\PrimeGen.AssemblyInfoInputs.cache
+C:\Users\Danilo Sosa\Documents\C# Files\PrimeGen\PrimeGen\obj\Debug\netcoreapp3.1\PrimeGen.AssemblyInfo.cs
+C:\Users\Danilo Sosa\Documents\C# Files\PrimeGen\PrimeGen\obj\Debug\netcoreapp3.1\PrimeGen.dll
+C:\Users\Danilo Sosa\Documents\C# Files\PrimeGen\PrimeGen\obj\Debug\netcoreapp3.1\PrimeGen.pdb
+C:\Users\Danilo Sosa\Documents\C# Files\PrimeGen\PrimeGen\obj\Debug\netcoreapp3.1\PrimeGen.genruntimeconfig.cache
